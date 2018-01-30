@@ -1,0 +1,2352 @@
+[
+  {
+    "_id": "59d551a136c4e67d44d9d087",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "59a4461e3a8d323d0f646167",
+    "displayTitle": "COURSE OVERVIEW",
+    "body": "",
+    "duration": "2 min",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a467243a8d323d0f6461e1"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a467243a8d323d0f6461e1"
+        }
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59a467243a8d323d0f6461e1"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "COURSE OVERVIEW",
+    "_type": "page",
+    "_courseOrder": "0"
+  },
+  {
+    "_id": "59d551a136c4e67d44d9d091",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "59a446b03a8d323d0f64616a",
+    "displayTitle": "COURSE PRE-ASSESSMENT",
+    "body": "",
+    "duration": "5 min",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a4679e3a8d323d0f6461e2"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a4679e3a8d323d0f6461e2"
+        }
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59a4679e3a8d323d0f6461e2"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a4461e3a8d323d0f646167"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "COURSE PRE-ASSESSMENT",
+    "_type": "page",
+    "_courseOrder": "1"
+  },
+  {
+    "_id": "59d551a236c4e67d44d9d0bb",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 2,
+    "__v": 0,
+    "_refId": "59a448353a8d323d0f64616d",
+    "displayTitle": " Module 1 - <b>Color Management Defined</b>",
+    "description": "<p>In this module, you will gain an understanding of what, exactly, color management is.</p>",
+    "duration": "5 min",
+    "body": "<p>In this module, you will gain an understanding of what, exactly, color management is.<br></p>",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a467b53a8d323d0f6461e3"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59a468403a8d323d0f6461e7"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a446b03a8d323d0f64616a",
+        "59a4461e3a8d323d0f646167"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": " Module 1 - Color Management Defined",
+    "_type": "page",
+    "_courseOrder": "2"
+  },
+  {
+    "_id": "59d551a236c4e67d44d9d0cd",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 3,
+    "__v": 0,
+    "displayTitle": "Module 2 - <b>Color Space and Gamut</b>",
+    "description": "<p>In this module you will gain an understanding of the meaning of color space, and gamut, and by the end, you will be able to explain one of the key concepts of color management, L*a*b* color space.</p>",
+    "duration": "5 min",
+    "body": "<p>In this module you will gain an understanding of the meaning of color space, and gamut, and by the end, you will be able to explain one of the key concepts of color management, L*a*b* color space.</p>",
+    "_refId": "59b0592d87a6797a41ca8482",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a467d03a8d323d0f6461e4"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "599b5b8812f318cc1233f159"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a446b03a8d323d0f64616a",
+        "59a4461e3a8d323d0f646167",
+        "59a448353a8d323d0f64616d"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Module 2 - Color Space and Gamut",
+    "_type": "page",
+    "_courseOrder": "3"
+  },
+  {
+    "_id": "59d551a236c4e67d44d9d0d9",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "Module 3 - <b>Color Accuracy and Delta-E</b>",
+    "description": "<p>When you are finished with this module, you will be able to explain how we define color accuracy, and explain how color accuracy is quantified through the use of Delta-E. </p>",
+    "duration": "6 min",
+    "body": "<p>When you are finished with this module, you will be able to explain how we define color accuracy, and explain how color accuracy is quantified through the use of Delta-E.  I will also use the Adobe Photoshop interface, full screen, with voice-over only.</p>",
+    "_refId": "59b0595887a6797a41ca848e",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a468403a8d323d0f6461e7"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a446b03a8d323d0f64616a",
+        "59a4461e3a8d323d0f646167",
+        "59a448353a8d323d0f64616d",
+        "59b0592d87a6797a41ca8482"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Module 3 - Color Accuracy and Delta-E",
+    "_type": "page",
+    "_courseOrder": "4"
+  },
+  {
+    "_id": "59d551a236c4e67d44d9d0e5",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 5,
+    "__v": 0,
+    "displayTitle": "Module 4 - <b>Device Dependent and Device Independent Color</b>",
+    "description": "<p>In this module, you will explore the concepts of device dependent and independent color and how L*a*b* color space fits into the equation.</p>",
+    "duration": "3 min",
+    "body": "<p>In this module, you will explore the concepts of device dependent and independent color and how L*a*b* color space fits into the equation.</p>",
+    "_refId": "59b05f9587a6797a41ca849a",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a46e803a8d323d0f6461ef"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a446b03a8d323d0f64616a",
+        "59a4461e3a8d323d0f646167",
+        "59a448353a8d323d0f64616d",
+        "59b0592d87a6797a41ca8482",
+        "59b0595887a6797a41ca848e"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Module 4 - Device Dependent and Device Independent Color",
+    "_type": "page",
+    "_courseOrder": "5"
+  },
+  {
+    "_id": "59d551a236c4e67d44d9d0f1",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 6,
+    "__v": 0,
+    "displayTitle": "Module 5 - <b>Rendering Intents and Black Point Compensation</b>",
+    "description": "<p>When you have completed this module, you will be able to explain what rendering intents and black point compensation and to select the appropriate options.</p>",
+    "duration": "12 min",
+    "body": "<p>When you have completed this module, you will not only be able to explain what rendering intents and black point compensation are, but you will be able to select the appropriate options whenever you need to correctly select the options in your software applications.</p>",
+    "_refId": "59b99e142ea477aa0644648b",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a469573a8d323d0f6461ec"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a446b03a8d323d0f64616a",
+        "59a4461e3a8d323d0f646167",
+        "59a448353a8d323d0f64616d",
+        "59b0592d87a6797a41ca8482",
+        "59b0595887a6797a41ca848e",
+        "59b05f9587a6797a41ca849a"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Module 5 - Rendering Intents and Black Point Compensation",
+    "_type": "page",
+    "_courseOrder": "6"
+  },
+  {
+    "_id": "59d551a236c4e67d44d9d0fd",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 7,
+    "__v": 0,
+    "displayTitle": "Module 6 - <b>Color Transforms</b>",
+    "description": "<p>In this module, you will learn why color needs to be transformed from one color space to another and how this process can differ between a proofing workflow and a production workflow. </p>",
+    "duration": "3 min",
+    "body": "<p>In this module, you will learn why color needs to be transformed from one color space to another and how this process can differ between a proofing workflow and a production workflow.  I will also use the Adobe Photoshop interface, full screen, with voice-over only.</p>",
+    "_refId": "59b99f9f2ea477aa06446497",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a4692e3a8d323d0f6461eb"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a446b03a8d323d0f64616a",
+        "59a4461e3a8d323d0f646167",
+        "59a448353a8d323d0f64616d",
+        "59b0592d87a6797a41ca8482",
+        "59b0595887a6797a41ca848e",
+        "59b05f9587a6797a41ca849a",
+        "59b99e142ea477aa0644648b"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Module 6 - Color Transforms",
+    "_type": "page",
+    "_courseOrder": "7"
+  },
+  {
+    "_id": "59d551a336c4e67d44d9d109",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 8,
+    "__v": 0,
+    "displayTitle": "Module 7 - <b>Calibration and Profiling</b>",
+    "description": "<p>When you finish this module, you will be able to explain the difference between calibration and profiling, and also explain how each activity impacts color reproduction.</p>",
+    "duration": "8 min",
+    "body": "<p>When you finish this module, you will be able to explain the difference between calibration and profiling, and also explain how each activity impacts color reproduction.</p>",
+    "_refId": "59b9a0792ea477aa064464a3",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a468ec3a8d323d0f6461e9"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a446b03a8d323d0f64616a",
+        "59a4461e3a8d323d0f646167",
+        "59a448353a8d323d0f64616d",
+        "59b0592d87a6797a41ca8482",
+        "59b0595887a6797a41ca848e",
+        "59b05f9587a6797a41ca849a",
+        "59b99e142ea477aa0644648b",
+        "59b99f9f2ea477aa06446497"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Module 7 - Calibration and Profiling",
+    "_type": "page",
+    "_courseOrder": "8"
+  },
+  {
+    "_id": "59d551a336c4e67d44d9d115",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 9,
+    "__v": 0,
+    "displayTitle": "Module 8 - <b>Black Generation and GCR</b>",
+    "description": "<p>When you finish this module, you will be able to select proper settings for common black generation options as well as explain the concept of GCR.</p>",
+    "duration": "9 min",
+    "body": "<p>When you finish this module, you will be able to select proper settings for common black generation options as well as explain the concept of GCR.</p>",
+    "_refId": "59b9a15f2ea477aa064464af",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a467b53a8d323d0f6461e3"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a446b03a8d323d0f64616a",
+        "59a4461e3a8d323d0f646167",
+        "59a448353a8d323d0f64616d",
+        "59b0592d87a6797a41ca8482",
+        "59b0595887a6797a41ca848e",
+        "59b05f9587a6797a41ca849a",
+        "59b99e142ea477aa0644648b",
+        "59b99f9f2ea477aa06446497",
+        "59b9a0792ea477aa064464a3"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Module 8 - Black Generation and GCR",
+    "_type": "page",
+    "_courseOrder": "9"
+  },
+  {
+    "_id": "59d551a336c4e67d44d9d121",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 10,
+    "__v": 0,
+    "displayTitle": "Module 9 - <b>Spot Colors</b>",
+    "description": "<p>In this module, you will learn why spot colors are the most difficult graphic arts element to reproduce accurately.  </p>",
+    "duration": "4 min",
+    "body": "<p>In this module you will learn why spot colors are the most difficult graphic arts element to reproduce accurately.</p>",
+    "_refId": "59b9a20b2ea477aa064464bb",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_id": "59a467b53a8d323d0f6461e3",
+          "_extension": "jpeg",
+          "_type": "image",
+          "_size": "small"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a446b03a8d323d0f64616a",
+        "59a4461e3a8d323d0f646167",
+        "59a448353a8d323d0f64616d",
+        "59b0592d87a6797a41ca8482",
+        "59b0595887a6797a41ca848e",
+        "59b05f9587a6797a41ca849a",
+        "59b99e142ea477aa0644648b",
+        "59b99f9f2ea477aa06446497",
+        "59b9a0792ea477aa064464a3",
+        "59b9a15f2ea477aa064464af"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Module 9 - Spot Colors",
+    "_type": "page",
+    "_courseOrder": "10"
+  },
+  {
+    "_id": "59d551a336c4e67d44d9d12d",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 11,
+    "__v": 0,
+    "displayTitle": "Module 10 - <b>Standards and Specification</b>",
+    "description": "<p>In this module, you will explore the differences between Standards and Specifications along with their value and limitations.  You will also gain an understanding of and limitations of the important file types used in the graphic arts industry.</p>",
+    "duration": "6 min",
+    "body": "<p>In this module you will explore the differences between Standards and Specifications along with their value and limitations.  You will also gain an understanding of and limitations of the important file types used in the graphic arts industry.</p>",
+    "_refId": "59b9a29e2ea477aa064464c7",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a4698a3a8d323d0f6461ed"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a446b03a8d323d0f64616a",
+        "59a4461e3a8d323d0f646167",
+        "59a448353a8d323d0f64616d",
+        "59b0592d87a6797a41ca8482",
+        "59b0595887a6797a41ca848e",
+        "59b05f9587a6797a41ca849a",
+        "59b99e142ea477aa0644648b",
+        "59b99f9f2ea477aa06446497",
+        "59b9a0792ea477aa064464a3",
+        "59b9a15f2ea477aa064464af",
+        "59b9a20b2ea477aa064464bb"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Module 10 - Standards and Specification",
+    "_type": "page",
+    "_courseOrder": "11"
+  },
+  {
+    "_id": "59d551a336c4e67d44d9d139",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 12,
+    "__v": 0,
+    "displayTitle": "Module 11 - <b>Measurement Methods and Viewing Conditions</b>",
+    "description": "<p>When you complete this module, you will be able to properly select the correct illuminant setting on your spectrophotometer, and explain the importance of proper viewing conditions.</p>",
+    "duration": "9 min",
+    "body": "<p>When you complete this module, you will be able to properly select the correct illuminant setting on your spectrophotometer, and explain the importance of proper viewing conditions.</p>",
+    "_refId": "59b9a3c52ea477aa064464d3",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a467e63a8d323d0f6461e5"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a446b03a8d323d0f64616a",
+        "59a4461e3a8d323d0f646167",
+        "59a448353a8d323d0f64616d",
+        "59b0592d87a6797a41ca8482",
+        "59b0595887a6797a41ca848e",
+        "59b05f9587a6797a41ca849a",
+        "59b99e142ea477aa0644648b",
+        "59b99f9f2ea477aa06446497",
+        "59b9a0792ea477aa064464a3",
+        "59b9a15f2ea477aa064464af",
+        "59b9a20b2ea477aa064464bb",
+        "59b9a29e2ea477aa064464c7"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Module 11 - Measurement Methods and Viewing Conditions",
+    "_type": "page",
+    "_courseOrder": "12"
+  },
+  {
+    "_id": "59d551a236c4e67d44d9d0c7",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 13,
+    "__v": 0,
+    "_refId": "59a44aec3a8d323d0f646191",
+    "displayTitle": "SUMMARY&nbsp;",
+    "description": "",
+    "duration": "3 min",
+    "body": "<p>Congratulations!&nbsp;</p><p><br></p><p>You now have all of the fundamental knowledge needed for a firm understanding of the foundational concepts of color management.  This brief course did more than scratch the surface of this extensive topic, and it is recommended that you continue your education by completing additional Fiery courses, review documents available at help.efi.com, and read up on the subject by browsing through books on the topic from your local library or available from sites such as amazon.com.  And, be sure to practice what you learn.  No amount of reading can replace hands-on experience in this powerful field of study.<br></p>",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "59a4b1763a8d323d0f646230"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a4461e3a8d323d0f646167",
+        "59a446b03a8d323d0f64616a",
+        "59a448353a8d323d0f64616d",
+        "59b0592d87a6797a41ca8482",
+        "59b0595887a6797a41ca848e",
+        "59b05f9587a6797a41ca849a",
+        "59b99e142ea477aa0644648b",
+        "59b99f9f2ea477aa06446497",
+        "59b9a0792ea477aa064464a3",
+        "59b9a15f2ea477aa064464af",
+        "59b9a20b2ea477aa064464bb",
+        "59b9a29e2ea477aa064464c7",
+        "59b9a3c52ea477aa064464d3"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "SUMMARY",
+    "_type": "page",
+    "_courseOrder": "13"
+  },
+  {
+    "_id": "59d551a336c4e67d44d9d145",
+    "_courseId": "59d551a136c4e67d44d9d084",
+    "_parentId": "59d551a136c4e67d44d9d084",
+    "_sortOrder": 14,
+    "__v": 0,
+    "displayTitle": "COURSE POST-ASSESSMENT",
+    "body": "",
+    "duration": "5 min",
+    "_refId": "59bab7face7cacd2211b20b0",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_id": "59a4679e3a8d323d0f6461e2",
+          "_extension": "jpeg",
+          "_type": "image",
+          "_size": "small"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [
+        "59a4461e3a8d323d0f646167",
+        "59a446b03a8d323d0f64616a",
+        "59a448353a8d323d0f64616d",
+        "59a44aec3a8d323d0f646191",
+        "59b0592d87a6797a41ca8482",
+        "59b0595887a6797a41ca848e",
+        "59b05f9587a6797a41ca849a",
+        "59b99e142ea477aa0644648b",
+        "59b99f9f2ea477aa06446497",
+        "59b9a0792ea477aa064464a3",
+        "59b9a15f2ea477aa064464af",
+        "59b9a20b2ea477aa064464bb",
+        "59b9a29e2ea477aa064464c7",
+        "59b9a3c52ea477aa064464d3"
+      ],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": true
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "COURSE POST-ASSESSMENT",
+    "_type": "page",
+    "_courseOrder": "14"
+  }
+]
