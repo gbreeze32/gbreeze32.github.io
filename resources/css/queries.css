@@ -118,6 +118,7 @@
     .main-nav {
         display: none;
     }
+    .sticky .main-nav{display: none;}
     .mobile-nav-icon {
         display: none;
     }

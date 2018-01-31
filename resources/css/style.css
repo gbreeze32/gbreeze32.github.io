@@ -879,7 +879,7 @@ header {
 }
 
 .sticky .main-nav {
-    display: none;
+    display: block;
     margin-top: 18px;
 }
 
