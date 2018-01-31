@@ -291,7 +291,8 @@ h2:after {
 }
 
 .text-box2{
-    width: 350px;
+    max-width: 350px;
+    width: 70%;
     font-size: 110%;
     text-align: left;
 }
