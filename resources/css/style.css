@@ -1255,13 +1255,6 @@ footer p {
 }
 
 
-/*
-footer div {
-    display: inline-block;
-}
-*/
-
-
 /* ----------------------------------------------- */
 
 
@@ -1295,11 +1288,6 @@ footer div {
     color: #888888;
     font-size: 500%;
     letter-spacing: 5px;
-}
-
-.section-features {
-/*        box-shadow: 0 20px 100px #000000;*/
-/*    background-image: linear-gradient(#f2f2f2, #f2f2f2);*/
 }
 
 footer .row {
