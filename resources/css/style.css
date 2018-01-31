@@ -366,6 +366,8 @@ h2:after {
     background-image: url(img/jirabanner.jpg);
     background-size: cover;
     background-attachment: fixed;
+    color:#fff;
+    font-weight: 400;
 }
 .elearningheader{
     background-image: url(img/eleaning_banner.jpg);
@@ -510,7 +512,7 @@ h2:after {
 }
 
 .small-box{
-     max-width: 50%; 
+     width: 50%; 
 }
 .big-box{
     max-width: 85%; 
@@ -791,8 +793,6 @@ input[type=submit]:active {
 
 
 header {
-
-/*    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));*/
     height: 100vh;
 }
 

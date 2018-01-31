@@ -51,8 +51,38 @@
               #portfolio ul li {
                 width: 100%;
               }
-    
-
+    header {
+    height: 40vh;
+    }
+    .profile_photo{
+        width: 70%;
+    }
+    .layoutbox{
+    height: 70vh;
+    }
+    .layout1{
+        top:30vh;
+    }
+    .layout2{
+        top:40vh;
+    }
+    .layout3{
+        top:50vh;
+    }
+    .layout4{
+        top:60vh;
+    }
+    .small-box{
+         width: 90%; 
+    }
+   .longtext{
+      font-size: 85%;  
+    }
+    .circle{
+        width:25px;
+        height:25px;
+        font-size: 100%;
+    }
     body { font-size: 16px; }
     section { padding: 30px 0; }
     .text-box2{
