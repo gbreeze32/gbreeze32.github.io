@@ -87,6 +87,12 @@
     .layout4 {
         top: 60vh;
     }
+    .layout5{
+   top: 50vh;
+    }
+    .dialog{
+    max-width: 100%;
+}
     .small-box {
         width: 90%;
     }
