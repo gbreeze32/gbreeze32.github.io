@@ -232,18 +232,30 @@ h2:after {
 }
 
 .some-words {
-    max-width:700px;
-    font-size: 140%;
+    max-width:750px;
+    font-size: 130%;
     color: #8b8b8b;
-    word-spacing: 3px;
+    word-spacing: 2px;
     letter-spacing: 2px;
     line-height: 1.5;
 }
-.about {
-    color: #8b8b8b;
-    word-spacing: 2px;
+.introduction-words{
+    padding-top:50px;
+    font-weight: 400;
+    max-width: 80%;
+    margin: 0 auto;
+    font-size: 110%;
+    color: #a2a2a2;
+    word-spacing: 5px;
     letter-spacing: 1px;
-    line-height: 1.5;
+    line-height: 1.8;
+}
+.about {
+    width: 80%;
+    color: #656565;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    line-height: 1.8;
 }
 .aboutpart{
     margin-top: 50px;
@@ -348,6 +360,10 @@ h2:after {
     width: 70%;
     font-size: 110%;
     text-align: left;
+    font-weight: 400;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    line-height: 1.8;
 }
 
 .dialog {
