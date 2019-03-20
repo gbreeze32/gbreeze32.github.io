@@ -445,6 +445,13 @@ h2:after {
     color: #fff;
     font-weight: 400;
 }
+.razerheader {
+    background-image: url(img/razerbanner.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    font-weight: 400;
+}
 
 .elearningheader {
     background-image: url(img/eleaning_banner.jpg);
@@ -561,7 +568,7 @@ h2:after {
 .position6 {
     top: 20%;
     left: 20%;
-    z-index: 2;
+    z-index: 5;
     border-radius: 5px;
 }
 
